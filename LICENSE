@@ -1,0 +1,83 @@
+
+Code licensed under the Tumbolia Public License.
+
+    Tumbolia Public License
+
+    Copying and distribution of this file, with or without modification, are
+    permitted in any medium without royalty provided the copyright notice and
+    this notice are preserved.
+
+    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+      0. opan saurce LOL
+
+
+--------------------------------------------------------------------------------
+
+Original game mechanics and original artwork from Cheapass Games.  
+License described here:
+
+    http://www.cheapass.com/sites/default/files/WitchTrialRules.pdf
+
+Here's a brief description from there:
+
+Creative Commons Attribution - Non Commercial - NoDerivs 3.0 Unported License. 
+
+Here's an email correspond that I (pmuellr) had with James Ernest concerning
+the Timeline game, which I'm extrapolating to including WitchTrial:
+
+    Date: Fri, 22 Feb 2013 16:15:24 -0800
+    Subject: Re: web version of Timeline
+    From: James Ernest <...@gmail.com>
+    To: Patrick Mueller <...@gmail.com>
+
+    Patrick:
+
+    Thanks for your note.
+
+    Yes, technically what you're talking about is a derivative product, for
+    which you need special permission. But in this case, it just requires the
+    extra step of asking me, and then I say yes. :)
+
+    I know the odds may be small that your project gets done, but I wish you
+    the best of luck and I'd like to help however I can. If you'd like the game
+    artwork in a better format, or any other art to help dress it up, please
+    let me know.
+
+    Thanks for writing (and for donating) and I'll talk to you soon,
+
+    -James
+
+    On Friday, February 22, 2013, Patrick Mueller wrote:
+
+    > Hi James.
+    >
+    > ...
+    >
+    > I'm scratching an itch, and building a version of your Timeline game to
+    > run on the web.  Maybe I'll never finish it.  If you're a betting man,
+    > that's what you'd bet on.  But you never know.
+    >
+    > I don't have any grand ambitions of making millions on this.  Best
+    > possible outcome would be hosting the game somewhere, for free.  I have a
+    > fine day job, don't really need more monetary hassle in my life, but I'm
+    > happy to have people use my software.
+    >
+    > I'm curious about your CC license.  Some particulars.  The Timeline Rules
+    > PDF calls out your license as "Creative Commons Attribution - Non
+    > Commercial - NoDerivs 3.0 Unported License".  The problem here for me is
+    > "NoDerivs".  I've got some code that downloads your card deck and slices it
+    > into smaller web-bite-sized PNGs.  I consider that "derived".  And you?
+    >
+    > I currently plan on using your card images, and the 100x100 image as the
+    > only artwork in the game.  And reference CheapAss.  And make the source
+    > code for this available publically (under a different, very liberal
+    > license).
+    >
+    > Do you have any problem with this?  Are you interested in tracking it?  I
+    > can do this all in the public by publishing my code up at GitHub - I won't
+    > be loading your images there, but will have code that can download your
+    > images and then slice them up.
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,41 @@
+{
+  "name":               "WitchTrial",
+  "description":        "an implementation of the Cheapass game Witch Trial",
+  "author":             "pmuellr",
+  "version":            "0.1.0",
+  "tags":               [ "game"],
+
+  "licenses":
+    [
+      {
+        "type":         "Tumbolia Public License"
+      },
+      {
+        "type":         "Creative Commons Attribution - Non Commercial - NoDerivs 3.0 Unported License"
+      }
+    ],
+
+  "dependencies":
+    {
+      "backbone":       "0.9.x",
+      "underscore":     "1.4.x"
+    },
+
+  "devDependencies":
+    {
+      "browserify":     "2.1.x",
+      "coffee-script":  "1.4.x",
+      "mocha":          "1.8.x",
+      "should":         "1.2.x",
+      "wr":             "1.2.x"
+    },
+
+  "homepage":           "https://github.com/pmuellr/WitchTrial",
+  "bugs":               "https://github.com/pmuellr/WitchTrial",
+
+  "repository": {
+    "type":            "git",
+    "url":             "git://github.com/pmuellr/WitchTrial"
+  }
+}
+
